@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#111113" android:pathData="M0,0H108V108H0Z" />
+    <!-- A red athlete holding a white barbell; shared by the brand and launch screen. -->
+    <path android:fillColor="#CF1434" android:pathData="M54,32a9,9 0,1 0,0 18a9,9 0,1 0,0 -18 M44,53Q54,49 64,53L73,43L73,26Q73,22 77,22Q81,22 81,26L81,46Q81,49 79,51L66,66L65,75L73,88Q75,92 71,94Q67,96 65,92L55,78H53L43,92Q41,96 37,94Q33,92 35,88L43,75L42,66L29,51Q27,49 27,46V26Q27,22 31,22Q35,22 35,26V43Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M15,24H93V29H15Z M19,16H26V37H19Z M10,20H16V33H10Z M82,16H89V37H82Z M92,20H98V33H92Z" />
+</vector>

@@ -1,0 +1,6 @@
+# Versions are explicitly pinned in the module build scripts.
+[versions]
+kotlin = "2.3.20"
+ktor = "3.4.3"
+composeBom = "2026.08.00"
+

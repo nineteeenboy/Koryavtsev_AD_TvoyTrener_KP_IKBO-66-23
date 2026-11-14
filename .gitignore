@@ -1,0 +1,20 @@
+*.iml
+.gradle/
+.idea/
+local.properties
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+.env
+.env.*
+!*.example
+app/google-services.json
+*service-account*.json
+
+
+# Local report artifacts and development scratch files
+/report/work/
+/work/
+/report/
+/FILES.txt

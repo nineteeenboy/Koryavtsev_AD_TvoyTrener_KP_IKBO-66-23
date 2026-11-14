@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_background">#111113</color>
+    <string name="brand_logo_description">Твой тренер: спортсмен со штангой</string>
+    <string name="become_trainer">Стать тренером</string>
+    <string name="trainer_application_title">Заявка тренера</string>
+    <string name="trainer_application_intro">Расскажите о себе, чтобы присоединиться к команде тренеров.</string>
+    <string name="trainer_application_email">Электронная почта</string>
+    <string name="trainer_application_phone">Номер телефона</string>
+    <string name="trainer_application_experience">Опыт работы</string>
+    <string name="trainer_application_education">Образование</string>
+    <string name="trainer_application_certificates">Сертификаты (необязательно)</string>
+    <string name="trainer_application_submit">Отправить заявку</string>
+    <string name="trainer_application_email_error">Введите корректную электронную почту</string>
+    <string name="trainer_application_phone_error">Введите номер телефона: от 10 до 15 цифр</string>
+    <string name="trainer_application_required">Заполните это поле</string>
+    <string name="trainer_application_pending">Заявка на рассмотрении</string>
+    <string name="trainer_application_pending_message">Заявка сохранена. Статус и решение администратора доступны в профиле.</string>
+    <string name="trainer_application_home">На главный экран</string>
+    <string name="application_specialization">Специализация</string>
+    <string name="application_years">Стаж в годах</string>
+    <string name="application_price">Стоимость тренировки, ₽ / час</string>
+</resources>

@@ -1,0 +1,122 @@
+[
+  {
+    "sourceId": 37,
+    "name": "Алексей Кравченко",
+    "specialty": "Функциональный тренинг",
+    "experienceYears": 22,
+    "summary": "Ведёт занятия для развития выносливости и общей физической формы, помогает готовиться к беговым стартам. Имеет спортивный разряд в рукопашном бое; участвовал в Московском марафоне и турецком старте серии Ironman на половинной дистанции.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/37/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/987_37.webp",
+    "price": 1500
+  },
+  {
+    "sourceId": 165,
+    "name": "Мария Буянова",
+    "specialty": "Силовые тренировки",
+    "experienceYears": 4,
+    "summary": "Помогает начинающим и подросткам старше 16 лет работать над формой и мышечной массой; проводит растяжку и составляет персональные планы занятий. Обладательница звания мастера спорта в ушу-таолу, победительница европейских и российских соревнований.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/165/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/8103_165.webp",
+    "price": 1750
+  },
+  {
+    "sourceId": 378,
+    "name": "Екатерина Баранова",
+    "specialty": "Силовые тренировки",
+    "experienceYears": 6,
+    "summary": "Инструктор групповых занятий DDX Fitness. В опубликованной карточке основным направлением указана работа над увеличением мышечной массы. Дополнительные сведения об образовании и спортивных достижениях в профиле не приведены.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/378/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/72694_378.webp",
+    "price": 2000
+  },
+  {
+    "sourceId": 190,
+    "name": "Яна Небогина",
+    "specialty": "Стретчинг",
+    "experienceYears": 16,
+    "summary": "Проводит занятия на гибкость и выносливость. Имеет звание мастера спорта в ориентировании и опыт выступлений за российскую сборную. Поднималась на обе вершины Эльбруса, участвовала в беговых, лыжных и фитнес-соревнованиях.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/190/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/10326_190.webp",
+    "price": 2250
+  },
+  {
+    "sourceId": 87,
+    "name": "Филипп Хозов",
+    "specialty": "Здоровая спина",
+    "experienceYears": 19,
+    "summary": "Ведёт групповые занятия с направлением работы над состоянием спины. Выступает на фитнес-конвенциях в России и за рубежом; занимается методической работой в нескольких тренировочных системах. Победил в соревнованиях юга России по скоростному спуску на велосипеде в 2015 году.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/87/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/1342_87.webp",
+    "price": 2500
+  },
+  {
+    "sourceId": 49,
+    "name": "Герман Савельев",
+    "specialty": "Бодибилдинг",
+    "experienceYears": 22,
+    "summary": "Персональный тренер DDX Fitness. Работает над изменением телосложения и силовыми показателями, использует свободные отягощения. Составляет планы занятий и питания, предлагает дистанционное сопровождение. Сведения о спортивных званиях в опубликованной карточке отсутствуют.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/49/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/999_49.webp",
+    "price": 2750
+  },
+  {
+    "sourceId": 47,
+    "name": "Дэян Мумин",
+    "specialty": "Силовой тренинг",
+    "experienceYears": 15,
+    "summary": "Персональный тренер DDX Fitness с направлениями силовой и функциональной подготовки. Проводит занятия на гибкость и общую физическую форму, использует свободные отягощения. В публичном профиле также указана работа с особыми потребностями и восстановительными задачами.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/47/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/997_47.webp",
+    "price": 3000
+  },
+  {
+    "sourceId": 260,
+    "name": "Владимир Блинов",
+    "specialty": "Силовые тренировки",
+    "experienceYears": 19,
+    "summary": "Персональный тренер DDX Fitness. Помогает новичкам осваивать занятия, работает над мышечной массой, выносливостью и физической формой. Использует свободные отягощения, составляет персональные планы и предлагает сопровождение на расстоянии.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/260/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/12519_260.webp",
+    "price": 3250
+  },
+  {
+    "sourceId": 321,
+    "name": "Владислав Бородий",
+    "specialty": "Бодибилдинг",
+    "experienceYears": 23,
+    "summary": "Готовит к спортивным стартам, работает с начинающими и задачами изменения телосложения. В профиле перечислены победы на российских и международных соревнованиях по жиму лёжа, включая титулы в европейских и евразийских турнирах и серебро мирового первенства.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/321/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/39182_321.webp",
+    "price": 3500
+  },
+  {
+    "sourceId": 297,
+    "name": "Оксана Иконникова",
+    "specialty": "Групповые программы",
+    "experienceYears": 18,
+    "summary": "Инструктор групповых занятий DDX Fitness. В официальной карточке опубликованы фотография и стаж; подробное описание специализаций, образования и спортивных достижений не представлено.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/297/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/39354_297.webp",
+    "price": 3750
+  },
+  {
+    "sourceId": 251,
+    "name": "Владимир Жуков",
+    "specialty": "Бодибилдинг",
+    "experienceYears": 22,
+    "summary": "Занимается развитием мышечной массы и силовой подготовкой; работает с новичками и подростками старше 16 лет. Тренирует с 2004 года. Имеет спортивные звания в тяжёлой атлетике и пауэрлифтинге, готовил спортсменов к российским и международным соревнованиям.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/251/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/12510_251.webp",
+    "price": 4000
+  },
+  {
+    "sourceId": 447,
+    "name": "Екатерина Гамагина",
+    "specialty": "Фитнес",
+    "experienceYears": 19,
+    "summary": "Персональный тренер с направлениями работы над телосложением, силовой подготовки и бодибилдинга. Имеет звание заслуженного мастера спорта в бодифитнесе. Побеждала на мировых, европейских и российских соревнованиях, а также на испанском Arnold Classic.",
+    "sourceUrl": "https://www.ddxfitness.ru/coaches/447/",
+    "portraitSourceUrl": "https://photo-storage-v2.storage.yandexcloud.net/1955_447.webp",
+    "price": 4250
+  }
+]
